@@ -1,5 +1,7 @@
 # Heart Disease Identification Using Machine Learning
 
+![](https://github.com/Lucky-akash321/Heart-Disease-Identification/blob/main/HD.png)
+
 ## Introduction
 Heart disease is one of the leading causes of mortality worldwide. **Early identification and prediction of heart disease** using **machine learning models** can help in timely medical intervention. This guide provides a step-by-step approach to building a **heart disease prediction model** using machine learning.
 
